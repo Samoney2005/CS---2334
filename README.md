@@ -1,4 +1,4 @@
-# C-S-----2334
+# C-S---2334
 Programming Structures &amp; Abstractions
 
 ## Overview
